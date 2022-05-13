@@ -15,6 +15,6 @@ git add -A
 git commit -m 'deploy'
 
 # 部署到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:effycoco/forms-vue.git master:gh-pages
+git push -f git@github.com:effycoco/send-http-request-vue.git master:gh-pages
 
 cd -
